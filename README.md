@@ -1,9 +1,10 @@
 # DEV-SAMPLES-Dump
 Program to demonstrate semaphores, multiple threads, etc. from high level.  
 
-#Compile Tools
+# Compile Tools
 
-#License
+# License
 BSD 3 Clauses
 
-#Authors
+# Authors
+Ray Duncan
